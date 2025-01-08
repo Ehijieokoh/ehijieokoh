@@ -1,16 +1,32 @@
-## Hi there 👋
+## My Portfolio
+My Portfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<!--
-**Ehijieokoh/ehijieokoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Prerequisites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+## Installing My Portfolio
+
+To install **My Portfolio**, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/Ehijieokoh/ehijieokoh.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/Ehijieokoh/ehijieokoh.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.x.com/emjaysblogg).
+
+
+# ehijieokoh
